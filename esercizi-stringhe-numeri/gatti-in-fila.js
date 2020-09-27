@@ -19,3 +19,4 @@
 */
 
 var cats = 44;
+var row = 6;
